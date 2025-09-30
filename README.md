@@ -7,7 +7,7 @@ It is an application that applies the concepts of the CRUD operations in which y
 This app is made using React js and Bootstrap 
 
 # Libraries
--Font awesome
+-Font Awesome
 -Axios
 -formik
 -react-awesome-reveal
